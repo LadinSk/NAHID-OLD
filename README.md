@@ -2,7 +2,25 @@
 # NAHID-OLD<h3 align="center">𝐈𝐍𝐃𝐈𝐀 𝐂𝐘𝐁𝐄𝐑 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐅𝐎𝐑𝐂𝐄 𝐓𝐄𝐀𝐌 𝐇𝐀𝐂𝐊𝐄𝐑 𝐍𝐀𝐇𝐈𝐃</h3>
 
 <h3 align="left">Connect with me:</h3>
+𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
 
+<img src="https://profile-counter.glitch.me/𝐀𝐝𝐫𝐢𝐘𝐚𝐧/count.svg" />
+
+</p>
+
+- ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
+
+<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
+
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+
+<a href="https://github.com/ARIYAN-404-CYBER"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=ARIYAN-404-CYBER&theme=monokai"></a>
+
+![Adriyan404's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriyan404&show_icons=true&theme=chartreuse-dark)  
+
+![Adriyan404 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adriyan404&theme=radical)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 <p align="left">
 
 </p>
