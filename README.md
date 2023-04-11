@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
 
-<img src="https://profile-counter.glitch.me/𝐀𝐝𝐫𝐢𝐘𝐚𝐧/count.svg" />
+<img src="https://profile-counter.glitch.me/NAHID/count.svg" />
 
 </p>
 
@@ -15,11 +15,11 @@
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
-<a href="https://github.com/ARIYAN-404-CYBER"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=ARIYAN-404-CYBER&theme=monokai"></a>
+<a href="https://github.com/LadinSk"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=-404-CYBER&theme=monokai"></a>
 
-![Adriyan404's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriyan404&show_icons=true&theme=chartreuse-dark)  
+![NAHID404's GitHub stats](https://github-readme-stats.vercel.app/api?username=A404&show_icons=true&theme=chartreuse-dark)NAHID404
 
-![Adriyan404 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adriyan404&theme=radical)
+![NAHID404 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adriyan404&theme=radical)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 <p align="left">
