@@ -1,4 +1,4 @@
-<h3 align="center">𝐈𝐧𝐝𝐢𝐚 𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐅𝐨𝐫𝐜𝐞 𝐓𝐞𝐚𝐦 𝐇𝐚𝐜𝐤𝐞𝐫 𝐍𝐚𝐡𝐢𝐝</h3>
+<h3 align="center">𝐄𝐭𝐡𝐢𝐜𝐚𝐥 𝐂𝐲𝐛𝐞𝐫 𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐍𝐚𝐡𝐢𝐝</h3>
 
 <h3 align="left">Connect with me:</h3>
 
