@@ -88,6 +88,9 @@
 - ⚡ Fun fact I think I am funny
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐋𝐀𝐃𝐈𝐍+𝐆𝐈𝐓𝐇𝐔𝐁+𝐁𝐑𝐎🇳🇪)](https://github.com/LadinSk)
+
  
  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 
