@@ -52,6 +52,9 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
+<p align="center">
+  <img src="https://i.imgur.com/GZHodUG.png" width="100px"/><p align="center">
+  
 
 [![Demo Site](https://user-images.githubusercontent.com/20955511/114579753-dbac8780-9c86-11eb-97dd-207039f67d20.gif "Demo Site")](http://streak-stats.demolab.com/demo/)
 
